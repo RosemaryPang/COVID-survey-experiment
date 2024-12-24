@@ -6,7 +6,7 @@ The original name for "Wave1.csv" is "COVID_survey_0918-2.csv". This wave of sur
 
 The original name for "Wave2.csv" is "COVID_survey_wave2_0809_2.csv". This wave of survey was conducted from late March to late July 2021 across the U.S. We received 1658 responses nationwide. 856 responses are incomplete, 21 responses who completed the survey have never been to the United States due to travel restrictions during the pandemic, which leaves us a sample size of 781 in the second wave. After dropping incomplete survey responses, we have 194 observations in the control group, 196 observations in the positive group, 195 observations, in the negative group, and 196 observations in the additive group. 
 
-Please contact the corresponding author, Rosemary Pang (mrpang@umass.edu), if you would like to acquire datasets for this project. 
+Please contact the corresponding author, Rosemary Pang (mrpang@umass.edu), if you have any questions or want more information. 
 
 
 
